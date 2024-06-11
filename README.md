@@ -13,7 +13,6 @@ ReverseShellHandler is a tool for managing reverse shell connections, allowing y
 - ❌ Terminate a session by ID
 - 🚀 Background a session
 - 📂 Download files from the target system
-- 🖥️ Clear screen and display banner
 
 ## Installation
 
