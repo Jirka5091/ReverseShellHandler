@@ -4,7 +4,7 @@
 ![ReverseShellHandler](https://img.shields.io/badge/ReverseShellHandler-v1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-ReverseShellHandler is a tool for managing reverse shell connections, allowing you to handle multiple sessions efficiently.
+ReverseShellHandler is a Node.js-based tool for managing reverse shell connections, allowing you to handle multiple sessions efficiently. It provides a convenient command-line interface to manage and interact with reverse shells, making it a valuable asset for penetration testers and security professionals.
 
 ## Features
 
@@ -16,7 +16,7 @@ ReverseShellHandler is a tool for managing reverse shell connections, allowing y
 
 ## Installation
 
-To install the required dependencies, run the following command:
+To install the required dependencies, run the following commands:
 
 ```bash
 git clone https://github.com/Jirka5091/ReverseShellHandler
@@ -58,6 +58,10 @@ node server.mjs 8080 0.0.0.0
 
 ![Session Selected](https://github.com/Jirka5091/ReverseShellHandler/blob/main/Commands.png)
 *Session selected and commands being executed.*
+
+## Disclaimer
+
+This tool is intended for educational purposes and legitimate penetration testing only. Unauthorized use of this tool to compromise computer systems, networks, or any other systems without permission is illegal and unethical. The author is not responsible for any misuse of this tool.
 
 ## License
 
